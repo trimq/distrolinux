@@ -22,7 +22,7 @@ Linux bao gồm các thành phần chính:
 </ul>
 ####IV. Các distro của linux:
 <ul>
-<li>Best desktop distro: **OPENSUSE**<li>
+<li>Best desktop distro: **OPENSUSE**</li>
 Nhiều môi trường desktop như: LXDE, Enlightenment, Gnome, Mate, KDE, and Xfce.
 <li>The most beautiful distro: **elementary OS**</li>
 Thiết kế bởi các great designer active in open source world, thiết kế tới từng ngõ ngách.
