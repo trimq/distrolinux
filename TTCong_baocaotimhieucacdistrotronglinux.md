@@ -1,16 +1,18 @@
 #Distro linux
 ##Mục lục:
-###I.Sơ lược về linux.
-###II.Đặc trưng của linux.
-###III.Các thành phần của linux.
-###IV.Các distro của linux.
-###V.Phân biệt Linux với Unix.
+###[I.Sơ lược về linux.](#soluoc)
+###[II.Đặc trưng của linux.](#dactrung)
+###[III.Các thành phần của linux.](#thanhphan)
+###[IV.Các distro của linux.](#distro)
+###[V.Phân biệt Linux với Unix.](#phanbiet)
 
-
+<a name="soluoc"></a>
 ####I.Sơ lược về Linux:
 Linux là 1 hệ điều hành, một phần mềm lớn được viết bởi Linus Tovards vào năm 1991, đến năm 1994 version 1.0 chính thức được phát hành.Linux quản lý máy tính cũng như Window. Nhưng Linux tự do và miễn phí hoàn toàn.
+<a name="dactrung"></a>
 ####II.Đặc trưng của Linux:
 Là 1 hệ điều hành mã nguồn mở rất ổn định sử dụng trên các máy trạm và máy chủ. Linux có tính đa nhiệm ,đa người dùng, chạy được trên nhiều nền tảng khác nhau, multi-network protocol.
+<a name="thanhphan"></a>
 ####III. Các thành phần của Linux:
 Linux bao gồm các thành phần chính:
 <ul>
@@ -20,6 +22,7 @@ Linux bao gồm các thành phần chính:
 <li>ultility</li>
 <li>application program</li>
 </ul>
+<a name="distro"></a>
 ####IV. Các distro của linux:
 <ul>
 <li>Best desktop distro: **OPENSUSE**</li>
@@ -32,6 +35,7 @@ Debian là một hệ điều hành mã nguồn mở và miễn phí đi kèm v�
 **Red Hat Linux** là một trong những distro thương mại đầu tiên của GNU/Linux và được xem là chuẩn nhất trong số các distro khác, ngôn ngữ lập trình được sử dụng trong Red Hat: C với hơn 60% số lượng các dòng mã lệnh (hơn 30 triệu dòng mã lệnh), kế tiếp là C++ với khoảng 10 triệu dòng mã lệnh và theo sau là Shell (khoảng 3 triệu dòng mã lệnh).
 -Best distro for hardware: **Ubuntu**
 Đặc tính cơ bản của Ubuntu là dựa trên hệ thống quản lý gói mạnh mẽ APT của Debian, nhắm đến đối tượng người dùng đầu cuối. Thích hợp với các máy cấu hình cũ.
+<a name="phanbiet"></a>
 ####V. Sự khác nhau giữa Linux và Unix:
 |     |Linux|Unix|
 |-----|-----|----|
